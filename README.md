@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
@@ -16,5 +15,3 @@
             では下の抽選ボタンで抽選を行ってください↓</p>
 
         <a href="https://qrcode-man.github.io/Raffle/" id="project-link" class="button" target="_blank">Let's抽選‼</a>
-</body>
-</html>
